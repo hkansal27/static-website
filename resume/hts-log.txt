@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Nov 2018 11:52:35 at http://www.vasterad.com/themes/sphene/index-resume-cv.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.vasterad.com/themes/sphene/index-resume-cv.html -O1 "D:\websites\resume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/alert_boxes_close_ico.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/squared_metal.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/retina_wood.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/brushed_alu.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/crisp_paper_ruffles.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/navy_blue.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/bedge_grunge.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/diamond_upholstery.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/shattered.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/light_toast.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/noise_pattern_with_crosslines.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/purty_wood.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/subtle_stripes.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/textured_stripes.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/tileable_wood_texture.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/stardust.png (from www.vasterad.com/themes/sphene/css/style.css)
+11:57:19	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/images/bg/vichy.png (from www.vasterad.com/themes/sphene/css/style.css)
+12:09:31	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/contact.html (from www.vasterad.com/themes/sphene/services-creative.html)
+12:09:31	Warning: 	File not parsed, looks like binary: www.vasterad.com/themes/sphene/fonts/fontawesome-webfont.woff2?v=4.5.0
+12:09:32	Error: 	"Forbidden" (403) at link www.vasterad.com/themes/sphene/css/openhand.cur (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.vasterad.com/themes/sphene/css/closedhand.cur (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/assets/gridtile.png (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/assets/gridtile_white.png (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/assets/gridtile_3x3.png (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/assets/gridtile_3x3_white.png (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/assets/coloredbg.png (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/img/loading.gif (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/contact-classic.html.html (from www.vasterad.com/themes/sphene/portfolio-full-width-style-3.html)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/contact.html.html (from www.vasterad.com/themes/sphene/portfolio-ajax.html)
+12:09:33	Error: 	"Not Found" (404) at link www.vasterad.com/themes/sphene/single-project-before-after.html (from www.vasterad.com/themes/sphene/elements-carousel-slider.html)
+12:09:44	Error: 	"Forbidden" (403) at link www.vasterad.com/themes/sphene/css/closedhand.cur (from www.vasterad.com/themes/sphene/css/revolutionslider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 9 seconds : 316 links scanned, 285 files written (31804535 bytes overall) [24363979 bytes received at 23677 bytes/sec], 10905748 bytes transferred using HTTP compression in 154 files, ratio 29%, 1.5 requests per connection
+(29 errors, 2 warnings, 0 messages)
